@@ -2,7 +2,7 @@
 
 Results of the tutorial from [Connor Leech](https://medium.com/@connorleech/build-a-task-list-with-laravel-5-4-and-vue-2-9be0bba06801) extended by using [Laradock](http://laradock.io).
 
-Follow the (Laradock installation guide)[http://laradock.io/getting-started/#A1].
+Follow the [Laradock installation guide](http://laradock.io/getting-started/#A1).
 
 Then run the following steps to configure mysql:
 
