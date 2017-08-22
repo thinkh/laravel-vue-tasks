@@ -31,6 +31,6 @@ Clear the Laravel config cache:
 
 ```
 docker-compose exec workspace bash
-php artisan cache:clear
+php artisan config:cache
 ```
 
